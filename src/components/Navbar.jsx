@@ -15,7 +15,7 @@ const Navbar = () => {
             <div>Solutions</div>
             <img
               loading="lazy"
-              src="./public/Navbar/arrow.png"
+              src="/public/Navbar/arrow.png"
               className="shrink-0 my-auto w-3 aspect-[2]"
             />
           </div>
@@ -24,7 +24,7 @@ const Navbar = () => {
             <div>Company</div>
             <img
               loading="lazy"
-              src="./public/Navbar/arrow.png"
+              src="/public/Navbar/arrow.png"
               className="shrink-0 my-auto w-3 aspect-[2]"
             />
           </div>
