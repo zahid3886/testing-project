@@ -14,23 +14,11 @@ const SectionTwo = () => {
               </div>
               <img
                 loading="lazy"
-                srcSet="./public/SectionTwo/car1.png"
+                srcSet="/public/SectionTwo/car1.png"
                 className="object-cover absolute inset-0 w-full h-full"
                 alt="Car"
               />
             </div>
-            {/* <div className="overflow-hidden relative flex-col grow justify-center items-start text-7xl font-semibold text-purple-500 min-h-[700px] max-md:max-w-full max-md:text-4xl">
-              <div>
-                Why choose
-                <br />
-                Auto Lens?
-              </div>
-              <img
-                loading="lazy"
-                srcSet="./public/SectionTwo/car1.png"
-                className="object-cover absolute inset-0 size-full"
-              />
-            </div> */}
           </div>
           <div className="flex flex-col w-6/12 max-md:ml-0 max-md:w-full">
             <div className="flex flex-col max-w-[960px]">
@@ -58,7 +46,7 @@ const SectionTwo = () => {
                       </div>
                       <img
                         loading="lazy"
-                        srcSet="./public/SectionTwo/car2.png"
+                        srcSet="/public/SectionTwo/car2.png"
                         className="self-end mt-20 max-w-full mix-blend-hard-light aspect-[1.3] w-[260px] max-md:mt-10"
                       />
                     </div>
@@ -78,7 +66,7 @@ const SectionTwo = () => {
                       </div>
                       <img
                         loading="lazy"
-                        srcSet="./public/SectionTwo/car3.png"
+                        srcSet="/public/SectionTwo/car3.png"
                         className="self-end mt-5 max-w-full mix-blend-soft-light aspect-[1.64] w-[284px]"
                       />
                     </div>

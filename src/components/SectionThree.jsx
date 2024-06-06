@@ -30,7 +30,7 @@ const SectionThree = () => {
             <div className="flex flex-col ml-5 w-[39%] max-md:ml-0 max-md:w-full">
               <img
                 loading="lazy"
-                srcSet="./public/SectionThree/man.png"
+                srcSet="/public/SectionThree/man.png"
                 className="grow mt-5 w-full aspect-[0.79] max-md:max-w-full"
               />
             </div>
