@@ -14,7 +14,7 @@ const SectionTwo = () => {
               </div>
               <img
                 loading="lazy"
-                srcSet="/public/SectionTwo/car1.png"
+                srcSet="/SectionTwo/car1.png"
                 className="object-cover absolute inset-0 w-full h-full"
                 alt="Car"
               />
@@ -46,7 +46,7 @@ const SectionTwo = () => {
                       </div>
                       <img
                         loading="lazy"
-                        srcSet="/public/SectionTwo/car2.png"
+                        srcSet="/SectionTwo/car2.png"
                         className="self-end mt-20 max-w-full mix-blend-hard-light aspect-[1.3] w-[260px] max-md:mt-10"
                       />
                     </div>
@@ -66,7 +66,7 @@ const SectionTwo = () => {
                       </div>
                       <img
                         loading="lazy"
-                        srcSet="/public/SectionTwo/car3.png"
+                        srcSet="/SectionTwo/car3.png"
                         className="self-end mt-5 max-w-full mix-blend-soft-light aspect-[1.64] w-[284px]"
                       />
                     </div>

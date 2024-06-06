@@ -6,7 +6,7 @@ const SectionOne = () => {
       <div className="flex overflow-hidden relative flex-col justify-center items-center px-16 py-20 mt-8 w-full font-semibold min-h-[1081px] max-md:px-5 max-md:max-w-full">
         <img
           loading="lazy"
-          srcSet="/public/SectionOne/bg.png"
+          srcSet="/SectionOne/bg.png"
           className="object-cover absolute inset-0 size-full"
         />
         <div className="flex relative flex-col mt-40 mb-1.5 max-w-full w-[776px] max-md:mt-10">
@@ -18,7 +18,7 @@ const SectionOne = () => {
           </div>
           <img
             loading="lazy"
-            srcSet="/public/SectionOne/car.png"
+            srcSet="/SectionOne/car.png"
             className="w-full aspect-[1.54] max-md:max-w-full"
           />
           <div className="justify-center items-center self-center px-6 py-3.5 mt-5 max-w-full text-2xl text-white text-center bg-purple-500 rounded-lg w-[308px] max-md:px-5">
